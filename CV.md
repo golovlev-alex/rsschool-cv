@@ -1,4 +1,4 @@
-me.jpg
+<img src="./photo.jpg" alt="Фото">
 # Головлев Александр Александрович
 
 ## Project manager - желаемая должность
