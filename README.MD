@@ -1,5 +1,1 @@
-#test repo
-parampam
-
-some more text
-fix2 changes
+https://golovlev-alex.github.io/rsschool-cv/cv
