@@ -5,10 +5,10 @@
 
 ## Contact information:
 
-Phone: +995-557-756-023
-E-mail: example@gmail.com
-Telegram: tbi_tours
-[Instagram](https://www.instagram.com/golovlev_alex/)
+Phone: +995-557-756-023  
+E-mail: example@gmail.com  
+Telegram: tbi_tours  
+[Instagram](https://www.instagram.com/golovlev_alex/)  
 
 ## About me:
 
