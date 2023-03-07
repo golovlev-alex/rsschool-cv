@@ -1,16 +1,43 @@
 ![photo](photo.jpg "Фото меня")
-# Головлев Александр Александрович
+# Golovlev Aleksandr
 
-## Project manager - желаемая должность
+## Junior Frontend Developer
 
-## Опыт работы:
+## Contact information:
 
->**Dyson - KAM:**
-* Достижения:
-    * согласование с Грузией плана трехкратного увеличения продаж в 2022 г. по отношению к 2021 г.
-    * согласование с Грузией открытия торговой точки с бесплатной арендой для Dyson;
-    * упрощение согласования работы с блогерами в Армении и Грузии;
-    * согласование с Арменией плана продаж +20% в 2022 по сравнению с 2021 г;
-    * согласование с Азербайджаном плана продаж +50% в 2022 по сравнению с 2021 г.
-* Должностные обязанности:
-    * Увеличение продаж в штуках продукции Dyson на территории Грузии, Армении, Азербайджана совместно с локальными дистрибьюторами
+Phone: +995-557-756-023
+E-mail: example@gmail.com
+Telegram: tbi_tours
+[Instagram](https://www.instagram.com/golovlev_alex/)
+
+## About me:
+
+I have experience mostly in sales and marketing.
+I had tour company in Georgia.
+I worked in Dyson company like sales representative in Georgia, Armenia, Azerbaijan
+In the future I bocome one of the best frontend developers in the world.
+
+## Skills
+
+* HTML \ CSS
+* Git
+* JavaScript
+* React
+
+## Code example
+```javascript
+const func = (num) => {
+  if (num > 0) {
+    return num - 1;
+  }
+  return num + 1;
+};
+```
+
+## Courses
+
+RsSchool - Frontend Developer
+
+## Languages
+
+English - B1, Russian - Native.
