@@ -1,2 +1,1 @@
-#test repo
-parampam
+https://golovlev-alex.github.io/rsschool-cv/cv
