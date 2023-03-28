@@ -1,1 +1,1 @@
-https://golovlev-alex.github.io/rsschool-cv/
+https://golovlev-alex.github.io/rsschool-cv/CV.md
